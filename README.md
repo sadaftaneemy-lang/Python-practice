@@ -1,6 +1,6 @@
 # Python-practice
 Learning and practicing python
-## Q1.
+
 ## Q1. Write a program to reverse a string without using a built-in reverse function.
 
 ## Q2. Write a program to check whether a given string or number is a palindrome.
