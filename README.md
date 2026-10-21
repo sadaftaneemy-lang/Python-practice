@@ -24,3 +24,25 @@ Learning and practicing python
 ## Q11. Write a program to find the missing number in an array containing numbers from 1 to N.
 
 ## Q12. Given an array of integers and a target value, write a program to find two numbers whose sum equals the target value.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
