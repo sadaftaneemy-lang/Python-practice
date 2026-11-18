@@ -22,8 +22,12 @@ print("Reversed string:", reversed_string)
 ## Q2. Write a program to check whether a given string or number is a palindrome.
 
 ```
+value = input("Enter a string or number: ")
 
-
+if value == value[::-1]:
+    print("Palindrome")
+else:
+    print("Not a palindrome")
 
 ```
 
