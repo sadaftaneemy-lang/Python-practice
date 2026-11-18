@@ -3,7 +3,7 @@ Learning and practicing python
 
 ## Q1. Write a program to reverse a string without using a built-in reverse function.
 
-'''
+```
 s = input("Enter a string: ")
 
 reversed_string = ""
@@ -12,7 +12,8 @@ for ch in s:
     reversed_string = ch + reversed_string
 
 print("Reversed string:", reversed_string)
-'''
+
+```
 
 <img width="1280" height="504" alt="image" src="https://github.com/user-attachments/assets/3ca5a958-93bc-4f13-8790-38b89689dffc" />
 
