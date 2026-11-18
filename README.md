@@ -21,8 +21,15 @@ print("Reversed string:", reversed_string)
 
 ## Q2. Write a program to check whether a given string or number is a palindrome.
 
+```
 
 
+
+```
+
+<img width="1280" height="504" alt="image" src="https://github.com/user-attachments/assets/dd64dbf5-5b72-42dd-a5f9-52f0bddbee06" />
+
+<img width="1280" height="493" alt="image" src="https://github.com/user-attachments/assets/a37a2e65-f837-428e-90d2-5d761069fd0f" />
 
 
 
