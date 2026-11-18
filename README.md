@@ -5,6 +5,7 @@ Learning and practicing python
 
 '''
 s = input("Enter a string: ")
+
 reversed_string = ""
 
 for ch in s:
